@@ -1,0 +1,23 @@
+h1{
+	font-family: Impact, fantasy;
+	font-size: 30px;
+	text-align: center;
+	color:  #000000;
+}
+body{
+	font-size: 16px;
+	font-family: Arial, sans-serif;
+	color: #242424;
+}
+img{
+ height: 100%;
+ width: 100%;
+ object-fit: contain;
+}
+.cat {
+ height:300px;
+ width: 300px;
+}
+.text {
+  text-align: left;
+}
